@@ -15,8 +15,10 @@ Summary: Common [Flask](https://flask.palletsprojects.com/en/1.1.x/) blueprints 
 
 ## Development
 
-This package includes a subset of libraries for role-based application
-authentication. To use it, simply include this library in your project's
+Common openfido libraries can be found in the `openfido` package.
+
+This package also includes a role-based application authentication blueprint and
+databases for Flask. To use it, simply include this library in your project's
 dependencies:
 
 Configure your application to use your application's specific application roles:
